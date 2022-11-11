@@ -1,0 +1,51 @@
+{
+  "id": "AON",
+  "title": "Arena of The Neverland",
+  "description": "<p></p>",
+  "authors": [
+    {
+      "name": "Daekatriel",
+      "discord": "Daekatriel#8765",
+      "url": "https://boosty.to/daekatrielmalinaproject"
+    }
+  ],
+  "version": "1.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 10
+  },
+  "system": "TheWitcherTRPG",
+  "packs": [
+    {
+      "name": "personazhi-pod-arenu",
+      "label": "Персонажи под арену",
+      "path": "packs/personazhi-pod-arenu.db",
+      "type": "Actor",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "tablicy-areny",
+      "label": "Таблицы Арены",
+      "path": "packs/tablicy-areny.db",
+      "type": "RollTable",
+      "system": "TheWitcherTRPG"
+    }
+  ],
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "library": false,
+  "relationships": {    
+    "systems": [{
+    "id": "TheWitcherTRPG",
+    "type": "system",
+    "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json"
+  }],
+  "requires": [{
+    "id": "compendium-folders",
+    "type": "module",
+    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+  }]
+}
+}
