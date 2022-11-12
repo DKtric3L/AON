@@ -49,6 +49,6 @@
   }]
 }, 
 "url": "https://github.com/DKtric3L/AON.git",
-"manifest": "https://github.com/DKtric3L/AON/raw/main/module.json",
-"download": "https://github.com/DKtric3L/AON/releases/download/0.1/AON.zip"  
+"manifest": "https://raw.githubusercontent.com/DKtric3L/AON/master/module.json",
+"download": "https://github.com/DKtric3L/AON/archive/refs/heads/main.zip"
 }
