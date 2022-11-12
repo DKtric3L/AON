@@ -1,1 +1,1 @@
-https://github.com/DKtric3L/AON/raw/main/module.json
+https://raw.githubusercontent.com/DKtric3L/AON/master/module.json
