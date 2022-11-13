@@ -46,8 +46,13 @@
     "id": "compendium-folders",
     "type": "module",
     "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
-  }]
-}, 
+  },
+  {
+  "id":"The-Ultimate-Witcher",
+  "type": "module",
+  "Manifest": "https://raw.githubusercontent.com/DKtric3L/The-Ultimate-Witcher/master/module.json"
+  }] 
+  }, 
 "url": "https://github.com/DKtric3L/AON.git",
 "manifest": "https://raw.githubusercontent.com/DKtric3L/AON/master/module.json",
 "download": "https://github.com/DKtric3L/AON/archive/refs/heads/main.zip"
